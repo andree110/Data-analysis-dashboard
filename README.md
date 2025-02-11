@@ -5,7 +5,7 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 The HR Analytics Dashboard provides key insights into employee attrition, job satisfaction, age distribution, and education field-wise trends. This dashboard helps HR teams analyze workforce trends and make data-driven decisions.
 
 ## Dataset used
-- <a href=" https://github.com/andree110/Data-analysis-dashboard/blob/main/HR%20Data.xlsx">Dataset</a>
+- <a href="https://github.com/andree110/Data-analysis-dashboard/blob/main/HR%20Data.xlsx"> Dataset </a>
 
 ## Key Features
 - Employee Overview: Displays the total number of employees, attrition rate, active employees, and average age.
@@ -15,7 +15,7 @@ The HR Analytics Dashboard provides key insights into employee attrition, job sa
 - Education & Career Trends: Attrition trends based on employees' education fields and qualifications.
 - Gender-Based Analysis: Attrition rates for different age groups categorized by gender.
 
-##Dashboard
+## Dashboard
 - <a href="https://github.com/andree110/Data-analysis-dashboard/blob/main/image.png">View Dashboard</a>
 
 ## Project Insights
